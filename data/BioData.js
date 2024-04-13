@@ -1,7 +1,7 @@
 // date: 1 Aug, 2022
 const bioData = [
     {
-        name: 'nxt lnk',
+        name: 'Ecoescape Mukteshwar',
         username: 'nxtlnk.vercel.app',
         url: 'https://nxtlnk.vercel.app',
         titleImg: true,
@@ -15,7 +15,7 @@ const bioData = [
         newProduct: true,
         author: 'realvjy',
         authorURL: 'https://twitter.com/realvjy',
-        footerText: 'made by'
+        footerText: 'made by Ecoescape'
     },
 ];
 
