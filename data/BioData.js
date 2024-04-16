@@ -6,7 +6,7 @@ const bioData = [
         url: 'Ecoescape',
         titleImg: true,
         avatar: '/avatar.png',
-        nftAvatar: true,
+        nftAvatar: false,
         description: 'Custom bio links for creatives who love coding. Made this first to use for my own weblinks vjy.me/lnk. ',
         descShow: true,
         subdesc: 'Use this template and deploy on vercel for free',
