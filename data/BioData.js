@@ -2,8 +2,8 @@
 const bioData = [
     {
         name: 'Ecoescape Mukteshwar',
-        username: 'nxtlnk.vercel.app',
-        url: 'https://nxtlnk.vercel.app',
+        username: 'EcoEscape',
+        url: 'Ecoescape',
         titleImg: true,
         avatar: '/avatar.png',
         nftAvatar: true,
