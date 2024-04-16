@@ -7,7 +7,7 @@ const bioData = [
         titleImg: true,
         avatar: '/avatar.png',
         nftAvatar: false,
-        description: 'Custom bio links for creatives who love coding. Made this first to use for my own weblinks vjy.me/lnk. ',
+        description: 'Book with EcoEscape Mukteshwar Directly Call at +919667846787',
         descShow: true,
         subdesc: 'Use this template and deploy on vercel for free',
         subdescShow: true,
